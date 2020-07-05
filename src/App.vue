@@ -5,16 +5,16 @@
       <a href="#" @click="page = 100">About</a>
       <div class="dropdown">
         <button class="dropbtn">
-          Main Sources
+          Sources
           <i class="fa fa-caret-down"></i>
         </button>
         <div class="dropdown-content">
           <a href="https://moodle.uni-due.de/course/view.php?id=2032"
-            >Source 1</a
+            >Course Evaluation Moodle</a
           >
-          <a href="https://www.uni-due.de/vdb/studiengang/liste">Source 2</a>
+          <a href="https://www.uni-due.de/vdb/studiengang/liste">Study Courses List</a>
           <a href="https://campus.uni-due.de/lsf/rds?state=user&type=0"
-            >Source 3</a
+            >LSF</a
           >
         </div>
       </div>
