@@ -1,7 +1,7 @@
 <template>
   <div class="fullheight">
     <h1>Select your courses</h1>
-    <p>Select courses that you have completed in previous semesters</p>
+    <h3>Select courses that you have completed in previous semesters</h3>
     <div class="columns">
       <div class="left">
         <h2>To do</h2>
@@ -23,9 +23,9 @@
         </ul>
       </div>
       <div class="middle">
-        <button @click="add">&gt;</button>
-        <button @click="remove">&lt;</button>
-        <button @click="removeAll">&lt;&lt;</button>
+        <button class="action-button" @click="add">&gt;</button>
+        <button class="action-button" @click="remove">&lt;</button>
+        <button class="action-button" @click="removeAll">&lt;&lt;</button>
       </div>
       <div class="right">
         <h2>Completed</h2>
@@ -52,20 +52,25 @@
       type="submit"
       value="Submit"
       style="position: absolute; bottom: 10px; right: 10px"
+      @click="nextStep"
     />
   </div>
 </template>
 
 <script>
-import CourseData from "../CourseData.json";
+import CourseData from "../AllData.json";
 
 export default {
   props: ["program", "semester"],
   data: function() {
     return {
-      todos: CourseData.filter(
-        course => course.StudyProgram === this.program
-      ).map(course => course.Courses),
+      todos: Array.from(
+        new Set(
+          CourseData.filter(course => course.StudyProgram === this.program).map(
+            course => course.Courses
+          )
+        )
+      ),
       selectedTodo: null,
       finishedCourses: []
     };
@@ -105,6 +110,11 @@ export default {
       this.selectedTodo = null;
       this.todos = this.todos.concat(this.finishedCourses);
       this.finishedCourses = [];
+    },
+    nextStep() {
+      this.$emit("next", {
+        finishedCourses: this.finishedCourses
+      });
     }
   }
 };
