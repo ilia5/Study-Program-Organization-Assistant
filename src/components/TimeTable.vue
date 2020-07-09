@@ -17,6 +17,7 @@
         <p
           style="border: solid 1px #999; padding: 1rem 2rem;"
           v-for="course in coursesWithoutTime"
+          :key="course"
         >
           {{ course.Courses }}
         </p>
@@ -36,6 +37,9 @@
             :chartdata="bar2ChartData"
             :options="bar2Options"
           />
+          <p style="text-align: center">
+            Values work like a grade system (lower = better)
+          </p>
         </div>
       </div>
     </div>
@@ -133,11 +137,11 @@ export default {
       let course = CourseData.find(
         c => c.Courses === courseName && c.StudyProgram === this.program
       );
-      if (course) creditsDone += course.Credits;
+      if (course) creditsDone += parseInt(course.Credits);
     }
 
     const creditsSelected = this.selectedCourses.reduce(
-      (c, a) => c + a.Credits,
+      (c, a) => c + parseInt(a.Credits),
       0
     );
 

@@ -110,6 +110,7 @@
             :href="highlightedCourse.Link"
             target="_blank"
             style="display: block; margin-top: 0.7rem"
+            v-if="highlightedCourse.Link !== '-'"
             >Course description</a
           >
         </div>
@@ -180,7 +181,7 @@ export default {
           course.Semester === this.selectedSemester &&
           course.Season == this.season &&
           !this.finishedCourses.includes(course.Courses) &&
-          !this.selectedCourses.includes(course)
+          !this.selectedCourses.find(c => course.Courses === c.Courses)
       );
     }
   },
@@ -209,10 +210,11 @@ export default {
       let pieDataset = [0, 0, 0, 0];
 
       for (let course of this.selectedCourses) {
-        if (course.Lecture !== "-") pieDataset[0] += course.Lecture;
-        if (course.Exercise !== "-") pieDataset[1] += course.Exercise;
-        if (course.Practicum !== "-") pieDataset[2] += course.Practicum;
-        if (course.Seminar !== "-") pieDataset[3] += course.Seminar;
+        if (course.Lecture !== "-") pieDataset[0] += parseInt(course.Lecture);
+        if (course.Exercise !== "-") pieDataset[1] += parseInt(course.Exercise);
+        if (course.Practicum !== "-")
+          pieDataset[2] += parseInt(course.Practicum);
+        if (course.Seminar !== "-") pieDataset[3] += parseInt(course.Seminar);
       }
       this.totalHours = pieDataset.reduce((a, b) => a + b, 0);
 
@@ -248,10 +250,10 @@ export default {
           label: course.Courses,
           backgroundColor: colors[i % colors.length],
           data: [
-            course.Lecture === "-" ? 0 : course.Lecture,
-            course.Exercise === "-" ? 0 : course.Exercise,
-            course.Practicum === "-" ? 0 : course.Practicum,
-            course.Seminar === "-" ? 0 : course.Seminar
+            course.Lecture === "-" ? 0 : parseInt(course.Lecture),
+            course.Exercise === "-" ? 0 : parseInt(course.Exercise),
+            course.Practicum === "-" ? 0 : parseInt(course.Practicum),
+            course.Seminar === "-" ? 0 : parseInt(course.Seminar)
           ]
         });
       }
