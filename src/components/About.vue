@@ -14,7 +14,7 @@
       <p style="padding-left:4em">
          Ilia Nassif (M.Sc. Computer Engineering(Interactive Systems and Visualization) Student)
       <br>
-      Deniz Glawenda (B.Sc. Angewandte Kognitions- und Medienwissenschaft student)
+      Deniz Glawenda (B.Sc. Angewandte Kognitions- und Medienwissenschaft Student)
       </p>
        We created this tool as a part of the LAVA lab uner the guidance of:
       <p style="padding-left:4em"> 
