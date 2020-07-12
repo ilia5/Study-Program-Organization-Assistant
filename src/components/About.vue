@@ -16,7 +16,7 @@
       <br>
       Deniz Glawenda (B.Sc. Angewandte Kognitions- und Medienwissenschaft Student)
       </p>
-       We created this tool as a part of the LAVA lab uner the guidance of:
+       We created this tool as a part of the LAVA lab under the guidance of:
       <p style="padding-left:4em"> 
           Prof. Dr. Mohamed Amine Chatti   and
           Dr. Arham Muslim
