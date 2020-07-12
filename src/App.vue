@@ -12,7 +12,7 @@
           <a href="https://moodle.uni-due.de/course/view.php?id=2032"
             >Course Evaluation Moodle</a
           >
-          <a href="https://www.uni-due.de/vdb/studiengang/liste">Study Courses List</a>
+          <a href="https://www.uni-due.de/vdb/studiengang/liste">Study Programs List</a>
           <a href="https://campus.uni-due.de/lsf/rds?state=user&type=0"
             >LSF</a
           >
