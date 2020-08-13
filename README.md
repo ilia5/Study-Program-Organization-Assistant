@@ -2,8 +2,8 @@
 
 **Project Idea**
 
-	* A tool to help students decide which courses to pick in the upcoming semester
-	* Provides information about the courses and shows how the semester is shaping up
+	• A tool to help students decide which courses to pick in the upcoming semester
+	• Provides information about the courses and shows how the semester is shaping up
 	
 # Project Architecture and Components
 
