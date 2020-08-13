@@ -21,7 +21,7 @@
 │   ├── SemesterCourses.vue\
 │   ├── StackedBarChart.vue   *To generate a stacked bar chart\
 │   └── TimeTable.vue   *To generate the final timetable\
-└── README.md\
+└── README.md
 
 The charts were generated using chart.js and vue-chartjs libraries.\
 To generate the final table, we have used vue-cal library, this library provides calendar table.
