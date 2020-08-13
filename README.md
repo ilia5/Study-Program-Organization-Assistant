@@ -9,7 +9,7 @@
 
 ├── index.html\
 ├── main.js\
-├── AllData.json\ 
+├── AllData.json\
 ├── App.vue\
 ├── components\
 │   ├── About.vue\
