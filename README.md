@@ -1,10 +1,8 @@
 # Project: Study Program Organization Assistant
 
 **Project Idea**
-	•A tool to help students decide which courses to pick in the upcoming
-	semester
-	•Provides information about the courses and shows how the semester is
-	shaping up
+	* A tool to help students decide which courses to pick in the upcoming semester
+	* Provides information about the courses and shows how the semester is shaping up
 	
 # Project Architecture and Components
 
@@ -31,8 +29,8 @@ To generate the final table, we have used vue-cal library, this library provides
 
 * Download and extract this repository.
 
-*Download and install YARN and Node.js
+* Download and install YARN and Node.js
 
-*Install the needed libraries
+* Install the needed libraries
 
-*To start a project you have to use the comand "yarn serve"
+* To start a project you have to use the comand "yarn serve"
