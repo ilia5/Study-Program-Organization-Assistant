@@ -7,8 +7,8 @@
 	
 # Project Architecture and Components
 
-├── index.html
-├── main.js
+├── index.html\
+├── main.js\
 ├── AllData.json 
 ├── App.vue
 ├── components
