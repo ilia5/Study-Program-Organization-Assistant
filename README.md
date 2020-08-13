@@ -24,7 +24,7 @@
 └── README.md\
 
 The charts were generated using chart.js and vue-chartjs libraries.\
-To generate the final table, we have used vue-cal library, this library provides calendar table.\
+To generate the final table, we have used vue-cal library, this library provides calendar table.
 
 # Steps on running the project
 
