@@ -29,7 +29,7 @@ To generate the final table, we have used vue-cal library, this library provides
 # The visualizations
 ### The amount of time that spent in different courses:
 
-![image](https://user-images.githubusercontent.com/50524579/90310433-864e8980-def1-11ea-805c-8d4e8f6bc80b.PNG)
+![image](https://user-images.githubusercontent.com/50524579/90310431-85b5f300-def1-11ea-9430-b0e978f90917.PNG)
 
 ### Total study time:
 
@@ -37,7 +37,7 @@ To generate the final table, we have used vue-cal library, this library provides
 
 ### The progress of the entire study program:
 
-![image](https://user-images.githubusercontent.com/50524579/90310431-85b5f300-def1-11ea-9430-b0e978f90917.PNG)
+![image](https://user-images.githubusercontent.com/50524579/90310433-864e8980-def1-11ea-805c-8d4e8f6bc80b.PNG)
 
 ### The different aspects of courses:
 
