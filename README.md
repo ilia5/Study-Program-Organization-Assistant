@@ -35,3 +35,5 @@ To generate the final table, we have used vue-cal library, this library provides
 * Install the needed libraries
 
 * To start a project you have to use the comand "yarn serve"
+
+![image](https://user-images.githubusercontent.com/50524579/90310368-38d21c80-def1-11ea-83a5-11d3059795cb.PNG)
