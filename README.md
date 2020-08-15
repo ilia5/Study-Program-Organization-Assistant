@@ -6,6 +6,7 @@
 	• Provides information about the courses and shows how the semester is shaping up
 	
 # Project Architecture and Components
+The tool was created by using HTML/CSS/JS with the vue.js framework.\
 
 ├── index.html\
 ├── main.js\
@@ -25,6 +26,13 @@
 
 The charts were generated using chart.js and vue-chartjs libraries.\
 To generate the final table, we have used vue-cal library, this library provides calendar table.
+# The visualizations
+**The amount of time that spent in different courses**
+![image](https://user-images.githubusercontent.com/50524579/90310430-851d5c80-def1-11ea-97db-5b9b250cfb3c.PNG)
+
+**Total study time**
+
+![image](https://user-images.githubusercontent.com/50524579/90310368-38d21c80-def1-11ea-83a5-11d3059795cb.PNG)
 
 # Steps on running the project
 
@@ -36,8 +44,7 @@ To generate the final table, we have used vue-cal library, this library provides
 
 * To start a project you have to use the comand "yarn serve"
 
-![image](https://user-images.githubusercontent.com/50524579/90310368-38d21c80-def1-11ea-83a5-11d3059795cb.PNG)
-![image](https://user-images.githubusercontent.com/50524579/90310430-851d5c80-def1-11ea-97db-5b9b250cfb3c.PNG)
+
 ![image](https://user-images.githubusercontent.com/50524579/90310431-85b5f300-def1-11ea-9430-b0e978f90917.PNG)
 ![image](https://user-images.githubusercontent.com/50524579/90310432-85b5f300-def1-11ea-9e6d-94882f1bad2f.PNG)
 ![image](https://user-images.githubusercontent.com/50524579/90310433-864e8980-def1-11ea-805c-8d4e8f6bc80b.PNG)
