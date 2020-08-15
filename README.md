@@ -57,4 +57,13 @@ To generate the final table, we have used vue-cal library, this library provides
 
 * To start a project you have to use the comand "yarn serve"
 
+# Supervised by
 
+* Professor dr. Mohamed Amine Chatti
+* Dr. Arham Muslim
+* Mouadh Guesmi
+
+# Creators 
+
+* Ilia Nassif
+* Deniz Glawenda
