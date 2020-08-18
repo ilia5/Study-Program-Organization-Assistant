@@ -57,7 +57,7 @@ To generate the final table, we have used vue-cal library, this library provides
 ```yarn serve```
 * To build the project for deployment, run this command
 ```yarn build```
-* After building the project you well get the website in "dist" folder
+* After building the project you will get the website in "dist" folder
 * You can upload the files into static filehosting service
 * [Deployed version](https://ilia5.github.io/)
 
