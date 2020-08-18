@@ -49,7 +49,6 @@ To generate the final table, we have used vue-cal library, this library provides
 
 # Steps on running the project
 
-**Project Idea**
 * Download and install YARN and Node.js
 * Clone or download and extract this repository.
 * Install the needed libraries by running this command 
