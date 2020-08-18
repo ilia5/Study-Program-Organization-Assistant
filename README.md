@@ -6,6 +6,7 @@
 	• Provides information about the courses and shows how the semester is shaping up
 	
 # Project Architecture and Components
+### Components:
 The tool was created by using HTML/CSS/JS with the vue.js framework.
 
 ├── index.html\
@@ -24,8 +25,11 @@ The tool was created by using HTML/CSS/JS with the vue.js framework.
 │   └── TimeTable.vue   *To generate the final timetable\
 └── README.md
 
-The charts were generated using chart.js and vue-chartjs libraries.\
-To generate the final table, we have used vue-cal library, this library provides calendar table.
+* The charts were generated using chart.js and vue-chartjs libraries.\
+* To generate the final table, we have used vue-cal library, this library provides calendar table.
+* It is a web application that was built using javascript without back end.
+* All data that we used in the project comes from the file AllData.json that bundled with the website.
+
 # The visualizations
 ### The amount of time that spent in different courses:
 
