@@ -4,7 +4,8 @@
 
 	• A tool to help students decide which courses to pick in the upcoming semester
 	• Provides information about the courses and shows how the semester is shaping up
-[Deployed version](https://ilia5.github.io/)	
+	• Automatically create timetable based on their choices
+	
 # Project Architecture and Components
 The tool was created by using HTML/CSS/JS with the vue.js framework.
 
@@ -49,13 +50,18 @@ To generate the final table, we have used vue-cal library, this library provides
 
 # Steps on running the project
 
-* Download and extract this repository.
-
+**Project Idea**
 * Download and install YARN and Node.js
-
-* Install the needed libraries
-
-* To start a project you have to use the comand "yarn serve"
+* Clone or download and extract this repository.
+* Install the needed libraries by running this command 
+```yarn``` 
+* To run the project locally for development, run this command
+```yarn serve```
+* To build the project for deployment, run this command
+```yarn build```
+* After building the project you well get the website in "dist" folder
+* You can upload these files into static filehosting service
+* [Deployed version](https://ilia5.github.io/)
 
 # Supervised by
 
