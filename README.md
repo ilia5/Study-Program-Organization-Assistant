@@ -9,20 +9,20 @@
 ### Components:
 The tool was created by using HTML/CSS/JS with the vue.js framework.
 
-	├── index.html\
-	├── main.js\
-	├── AllData.json\
-	├── App.vue\
-	├── components\
-	│   ├── About.vue\
-	│   ├── AddCourse.vue\
-	│   ├── Conflicts.vue   *To get the conflicts in course time\
-	│   ├── HomePage.vue\
-	│   ├── HorizontalBarChart.vue   *To generate a bar chart\
-	│   ├── PieChart.vue   *To generate a pie chart\
-	│   ├── SemesterCourses.vue\
-	│   ├── StackedBarChart.vue   *To generate a stacked bar chart\
-	│   └── TimeTable.vue   *To generate the final timetable\
+	├── index.html
+	├── main.js
+	├── AllData.json
+	├── App.vue
+	├── components
+	│   ├── About.vue
+	│   ├── AddCourse.vue
+	│   ├── Conflicts.vue   *To get the conflicts in course time
+	│   ├── HomePage.vue
+	│   ├── HorizontalBarChart.vue   *To generate a bar chart
+	│   ├── PieChart.vue   *To generate a pie chart
+	│   ├── SemesterCourses.vue
+	│   ├── StackedBarChart.vue   *To generate a stacked bar chart
+	│   └── TimeTable.vue   *To generate the final timetable
 	└── README.md
 
 * The charts were generated using chart.js and vue-chartjs libraries.
