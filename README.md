@@ -27,8 +27,8 @@ The tool was created by using HTML/CSS/JS with the vue.js framework.
 
 * The charts were generated using chart.js and vue-chartjs libraries.
 * To generate the final table, we have used vue-cal library, this library provides calendar table.
-* It is a web application that was built using javascript without back end.
-* All data that we used in the project comes from the file AllData.json that bundled with the website.
+* It is a web application that was built using javascript without a backend.
+* All data that we used in the project comes from the file AllData.json that is bundled with the website.
 
 # The visualizations
 ### The amount of time that spent in different courses:
