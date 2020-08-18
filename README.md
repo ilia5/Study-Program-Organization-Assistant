@@ -4,7 +4,6 @@
 
 	• A tool to help students decide which courses to pick in the upcoming semester
 	• Provides information about the courses and shows how the semester is shaping up
-	• Automatically create timetable based on their choices
 	
 # Project Architecture and Components
 The tool was created by using HTML/CSS/JS with the vue.js framework.
