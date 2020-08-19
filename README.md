@@ -67,7 +67,7 @@ The tool was created by using HTML/CSS/JS with the vue.js framework.
 
 # Supervised by
 
-* Professor dr. Mohamed Amine Chatti
+* Professor Dr. Mohamed Amine Chatti
 * Dr. Arham Muslim
 * Mouadh Guesmi
 
