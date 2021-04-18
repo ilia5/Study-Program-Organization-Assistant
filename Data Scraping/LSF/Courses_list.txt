@@ -1,0 +1,178 @@
+Advanced Image Synthesis
+Advanced Mobile Communications
+Advanced Numerical Methods
+Advanced Web Technologies
+Allgemeine Psychologie: Motivation und Emotion
+Allgemeine Psychologie: Perzeption, Kognition und Handeln
+Angewandte Kognitionspsychologie 1
+Angewandte Kognitionspsychologie II
+Automaten und formale Sprachen
+Bachelorseminar Informatik
+Berechenbarkeit und Komplexität
+Beschaffung und Produktion
+Betriebssysteme
+Betriebswirtschaft für Ingenieure
+Bioinformatics
+Business Communications
+Cloud, Web & Mobile
+Cognitive Robot Systems
+Compilerbau
+Computer / Robot Vision
+Computer Based Engineering Mathematics
+Computer Graphics
+Computer Graphics 
+Computer Networks Lab
+Datenbanken
+Datenbanksysteme
+Datenstrukturen und Algorithmen
+Designbezogener Methodenansatz zur Entwicklung innovativer digitaler Produkt- und Serviceideen 
+Digital Enterprise
+Digital Games Research
+Digital Society
+Digitale Medien
+Digitale Regelung
+Discrete Mathematics
+Diskrete Mathematik 1
+Diskrete Mathematik 2
+Distributed Systems
+Einführung in die betriebswirtschaftliche Steuerlehre
+Einführung in die Betriebswirtschaftslehre für interdisziplinäre Studiengänge
+Einführung in die Logik
+Einführung in die Mechatronik und Signalanalyse
+Einführung in die VWL für interdisziplinäre Studiengänge
+Electronic Business
+Electronic Communities and Social Networks
+Elektrische Messtechnik
+Elektrotechnik
+Embedded Systems
+Empirische Aspekte der Mensch-Computer-Interaktion
+Empirische Wirtschaftsforschung
+Entwicklung sicherer Software
+Experimentelle Methoden
+Fehlerdiagnose und Fehlertoleranz in technischen Systemen
+Formale Aspekte der Software-Sicherheit und Kryptographie
+Formale Spezifikation von Software-Systemen
+Fortgeschrittene Programmiertechniken
+Kulturgeschichte der Fotografie
+Theorie und Praxis der Fotografie
+Fundamentals of Computer Engineering 1
+Fundamentals of Programming
+Game Architecture and Design
+Gestaltung interaktiver Lehr-/Lernsysteme
+Grundlagen der Bildverarbeitung
+Grundlagen der Elektronik
+Grundlagen der Kommunikationspsychologie
+Grundlagen der Kommunikationspsychologie 
+Grundlagen der künstlichen Intelligenz
+Grundlagen der Medienpsychologie
+Grundlagen der Organisationspsychologie
+Grundlagen der Sozialpsychologie
+Grundlagen der technischen Informatik
+Grundlagen der Wirtschaftspsychologie
+Grundlagen des Jahresabschlusses
+Grundlagen des Marketings
+Grundlagen des Personalmanagements für interdisziplinäre Studiengänge
+Grundlagen elektronischer Schaltungen
+Grundlegende Programmiertechniken
+Information Engineering
+Information Mining
+Information Retrieval
+Informationssysteme der Logistik
+Informatische Grundlagen neuer Medien und Kommunikationstechniken
+Instruktionspsychologie: Lernen in Gruppen I
+Instruktionspsychologie: Lernen in Gruppen 2
+Instruktionspsychologie: Lernen mit Medien
+Instruktionspsychologie: Lernen mit Medien 2
+Interaktive Systeme
+Internet of Things: Protocols and System Software
+Internet Research
+Internet-Suchmaschinen
+Internet-Technologie & Web Engineering
+Investition und Finanzierung für interdisziplinäre Studiengänge
+Kinematics of Robots and Mechanisms
+Kognitive technische Systeme
+Kommunikationspsychologische Vertiefung
+Kompaktvertiefung Kognitionspsychologie
+Konsumentenpsychologische Vertiefung 1
+Konsumentenpsychologische Vertiefung 2
+Konsumpsychologie
+Kosten- und Leistungsrechnung für interdisziplinäre Studiengänge
+Kunst und Gestaltung 1
+Kunst und Gestaltung 2
+Learning Analytics
+Logical Design of Digital Systems
+Logik
+Makroökonomik für interdisziplinäre Studiengänge
+Marketing
+Marktpsychologische Vertiefung
+Masterseminar Informatik
+Mathematics I1
+Mathematics I2
+Mathematik für Informatiker 1
+Mathematik für Informatiker 2
+Mathematische Strukturen
+Measurement Technology
+Mechanics I1
+Medienbasiertes Lehren und Lernen
+Medienproduktion
+Medienpsychologische Vertiefung
+Mensch-Computer Interaktion
+Mikroökonomik für interdisziplinäre Studiengänge
+Mobilkommunikationsgeräte
+Mobilkommunikationstechnik
+Modellbildung und Simulation
+Modellierung
+Modellierung nebenläufiger Systeme
+Modellierung von Logistiksystemen
+Modellierung, Analyse, Verifikation
+Multimedia Systeme
+Muster- und komponentenbasierte Software-Entwicklung
+Nachrichtentechnik
+Natürlichsprachliche Mensch-Computer-Interaktion
+Network Analysis
+Neuroinformatik und Organic Computing
+Numerical Mathematics
+Objektorientierte Programmierung
+Operating Systems and Computer Networks
+Operations Research
+Optische Netze
+Optische Signalverarbeitung
+Optische Übertragungstechnik
+Optoelektronik
+Organisationspsychologische Vertiefung
+Peer-to-Peer Systeme
+Personalmanagement
+Pervasive Computing
+Physics
+Physik für Informatiker 1
+Planung und Organisation
+Programmieren in C
+Programmierparadigmen
+Programmiertechniken für intelligente Systeme
+Psychologische Grundlagen des Lehrens und Lernens
+Rechnerarchitektur
+Rechnergestützte Netzanalysen
+Rechnernetze und Kommunikationssysteme
+Rechnernetze und Kommunikationssysteme 
+Recommender Systeme
+Regelungstechnik EIT
+Scientific Visualization
+Seminar in Fortgeschrittenen Systemtechnologien oder Anwendungstechnologien
+Sensor Networks
+Sensorik und Aktuatorik
+Sicherheit in Kommunikationsnetzen
+Softwaretechnik
+Sozialpsychologische Vertiefung
+Sprachtechnologie
+Static and Stationary Fields
+Statistik I: Einführung in die Methodenlehre
+Statistik II: Inferenzstatistik
+Technische Mechanik 1
+Test- und Fragebogenkonstruktion 1
+Test- und Fragebogenkonstruktion II
+Test und Zuverlässigkeit digitaler Systeme
+Theorie linearer Systeme
+Wahrscheinlichkeitsrechnung und Statistik
+Wirtschaftsrecht
+Wissensbasierte Systeme
+Wissenschaftliches Arbeiten

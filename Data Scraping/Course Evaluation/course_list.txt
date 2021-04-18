@@ -1,0 +1,65 @@
+Advanced Web Technologies
+Angewandte Kognitionspsychologie 1
+Angewandte Kognitionspsychologie 2
+Angewandte Kognitionspsychologie 2
+Berechenbarkeit und Komplexität
+Betriebssysteme
+Business Communications
+Cloud Web & Mobile
+Cognitive Robot Systems
+Compilerbau
+Computer Robot Vision
+Datenbanken
+Digital Enterprise
+Digital Society
+Digitale Medien
+Distributed Systems
+Einführung in die Logik
+Einführung in die Mechatronik und Signalanalyse
+Embedded Systems
+Entwicklung sicherer Software
+Fehlerdiagnose und Fehlertoleranz in technischen Systemen
+Formale Spezifikation von Software-Systemen
+Fortgeschrittene Programmiertechniken
+Grundlagen der Bildverarbeitung
+Grundlagen der Organisationspsychologie
+Grundlagen der technischen Informatik
+Grundlagen der Wirtschaftspsychologie
+Grundlagen der künstlichen Intelligenz
+Grundlegende Programmiertechniken
+Information Retrieval
+Instruktionspsychologie Lernen mit Medien 1
+Interaktive Systeme
+Internet of Things Protocols and System Software
+Internet-Technologie und Web Engineering
+Konsumentenpsychologische Vertiefung 1
+Konsumentenpsychologische Vertiefung 2
+Logik
+Mathematics I1
+Mathematics I2
+Measurement Technology
+Medienbasiertes Lehren und Lernen
+Medienproduktion
+Mensch-Computer Interaktion
+Mobilkommunikationstechnik
+Modellbildung und Simulation
+Modellierung
+Muster- und komponentenbasierte Software-Entwicklung
+Network Analysis
+Neuroinformatik und Organic Computing
+Optische Signalverarbeitung
+Organisationspsychologische Vertiefung
+Peer-to-Peer Systeme
+Programmieren in C
+Programmierparadigmen
+Programmiertechniken für intelligente Systeme
+Rechnernetze und Kommunikationssysteme
+Recommender Systeme
+Regelungstechnik EIT
+Sensorik und Aktuatorik
+Sozialpsychologische Vertiefung
+Sprachtechnologie
+Statistik I Einführung in die Methodenlehre
+Technische Mechanik 1
+Test- und Fragebogenkonstruktion 2
+Theorie linearer Systeme
